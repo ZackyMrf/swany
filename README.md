@@ -3,7 +3,7 @@
 
 ```
 git clone https://github.com/ZackyMrf/swany.git
-cd swanchain
+cd swany
 pip install requests
 pip install py-solc-x
 pip install web3
