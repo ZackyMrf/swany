@@ -1,9 +1,9 @@
-git clone https://github.com/ZackyMrf/swany.git
+"git clone https://github.com/ZackyMrf/swany.git
 cd swanchain
 pip install requests
 pip install py-solc-x
 pip install web3
-python swany.py
+python swany.py"
 
 
 
