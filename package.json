@@ -1,0 +1,11 @@
+{
+  "name": "swanchain",
+  "version": "1.0.0",
+  "description": "Another bot decode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zacky Mrf",
+  "license": "MIT"
+}
